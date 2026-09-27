@@ -1,5 +1,5 @@
 using UnityEngine;
-
+//Lock Aspect Ratio to 16:0
 public class AspectLock : MonoBehaviour
 {
     public float targetAspect = 16f / 9f;
